@@ -3,7 +3,9 @@ mineTwitterer
 
 twitters your bitcoin miner's mining results to twitter using Perl.
 
-The current skript is configured to use the btcmp-Pool and twitter €-prices.
+The current script is configured to use the btcmp-Pool and twitter €-prices.
+
+The script runs fine on my Ubuntu and my Minepeon Raspberry Pi.
 
 Configuration
 =============
